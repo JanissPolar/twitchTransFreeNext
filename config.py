@@ -1,8 +1,8 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'JanissPolar'
 
-Trans_Username          = 'trans_user_name'
+Trans_Username          = 'Polar'
 Trans_OAUTH             = 'oauth_for_trans_user'
 
 #######################################################
@@ -17,7 +17,7 @@ Show_ByName             = True
 Show_ByLang             = True
 
 Ignore_Lang             = ['']
-Ignore_Users            = ['Nightbot', 'BikuBikuTest']
+Ignore_Users            = ['Nightbot', 'BikuBikuTest', 'StreamElements']
 Ignore_Line             = ['http', 'BikuBikuTest', '888', '８８８']
 Delete_Words            = ['saatanNooBow', 'BikuBikuTest']
 
